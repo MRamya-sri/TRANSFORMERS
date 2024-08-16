@@ -1,5 +1,5 @@
-## Transformers
-# Transformer-based Text Processing with Hugging Face
+# Transformers
+## Transformer-based Text Processing with Hugging Face
 
 This repository contains two Jupyter notebooks that demonstrate the use of Hugging Face's Transformers library for text processing tasks, including sequence classification and working with various transformer models.
 
