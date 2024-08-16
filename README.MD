@@ -21,9 +21,7 @@ Transformers leverage an encoder-decoder architecture, where:
 - **Encoder**: Processes the input text by converting it into a set of key-value pairs, enabling the model to understand the context and meaning.
 - **Decoder**: Uses the encoded information to generate or classify the output.
 
-
-
-
+![Encoding-Decoding-Architecture](https://github.com/user-attachments/assets/51234940-3b11-43f1-89cc-de861c76ac28)
 
 ## Notebook Descriptions
 
