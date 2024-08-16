@@ -14,7 +14,6 @@ The general architecture of the transformer models used in these notebooks can b
 
 
 
-
 ## Encoding and Decoding Architecture
 
 Transformers leverage an encoder-decoder architecture, where:
@@ -22,7 +21,7 @@ Transformers leverage an encoder-decoder architecture, where:
 - **Encoder**: Processes the input text by converting it into a set of key-value pairs, enabling the model to understand the context and meaning.
 - **Decoder**: Uses the encoded information to generate or classify the output.
 
-![Encoding and Decoding Architecture](path_to_your_encoding_decoding_architecture_image.png)
+
 
 ## Notebook Descriptions
 
