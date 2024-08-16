@@ -12,7 +12,7 @@ This repository contains two Jupyter notebooks that demonstrate the use of Huggi
 
 The general architecture of the transformer models used in these notebooks can be understood in the following way:
 
-
+![BasicArchitecture](https://github.com/user-attachments/assets/07f4c67e-60f1-4b56-9c6f-1709d1401641)
 
 ## Encoding and Decoding Architecture
 
@@ -20,6 +20,8 @@ Transformers leverage an encoder-decoder architecture, where:
 
 - **Encoder**: Processes the input text by converting it into a set of key-value pairs, enabling the model to understand the context and meaning.
 - **Decoder**: Uses the encoded information to generate or classify the output.
+
+
 
 
 
